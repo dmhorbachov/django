@@ -25,7 +25,7 @@ SECRET_KEY = 'u(ro%gmd-78h^=r5jao^4cj@!h4)1jlg&4$7fa^5h9tlvc0%+='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'dimmozgg.pythonanywhere.com']
 
 
 # Application definition
